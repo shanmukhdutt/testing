@@ -352,4 +352,3 @@
 // console.log(obj2);
 // add(8);
 // sub(8);
-// deleted a bug
