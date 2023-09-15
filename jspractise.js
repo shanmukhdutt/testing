@@ -349,4 +349,4 @@
 // const obj3=[{
 //     ...obj1,dist:"eg",state:"ap",
 // }]
-// console.log(obj3);k
+// console.log(obj3);
