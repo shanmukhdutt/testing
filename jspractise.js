@@ -350,4 +350,5 @@
 //     ...obj1,dist:"eg",state:"ap",
 // }]
 // console.log(obj2);
-// add(8)
+// add(8);
+// sub(8);
